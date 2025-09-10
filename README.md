@@ -3,7 +3,7 @@
 
 <a href="https://github.com/HaelongIT"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaelongIT&layout=compact&theme=nord&hide_border=true" /></a> 
 
-비즈니스 프로세스를 이해하고, 안정적이고 효율적인 시스템을 설계하는 것을 즐깁니다.
+비즈니스 프로세스를 이해하고, 안정적이고 효율적인 시스템을 설계하는 것을 즐깁니다.<br>
 지속적인 학습과 성장을 통해 문제를 해결하며 가치를 만들어가는 개발자가 되겠습니다.
 
 ---
@@ -33,3 +33,10 @@
   - `Bulk Insert`를 활용해 대량 데이터 처리 성능 **5배 개선**
 
 [프로젝트 Github 바로가기](https://github.com/HaelongIT/DevLog)
+
+---
+
+### 📫 Contact
+<a href="mailto:soja0529@gmail.com">
+<img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</a>
